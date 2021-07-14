@@ -1,0 +1,18 @@
+sr,srno,subsr,category,product,desciption ,image,subweight,weight,price,discount,stock,flexiblity
+1,1,1,milk,amul,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,mililitres,litre,60,not available,10,"can sell half ,3/4 kilo too"
+2,1,2,milk,gokul,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,mililitres,litre,54,not available,10,"can sell half ,3/4 kilo too"
+3,1,3,milk,nandini,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,mililitres,litre,58,not available,10,"can sell half ,3/4 kilo too"
+4,1,4,milk,warna,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,mililitres,litre,56,not available,10,only packets of 250ml
+5,2,5,milk,chitle,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,mililitres,litre,54,not available,50,no fractionly sold
+6,2,1,dal,harbhara,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,kilograms,kilo,82,not available,50,no fractionly sold
+7,2,2,dal,masoor,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,kilograms,kilo,76,not available,50,no fractionly sold
+8,2,3,dal,mug,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,kilograms,kilo,78,not available,30,no fractionly sold
+9,2,4,dal,toor,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,kilograms,kilo,80,not available,30,no fractionly sold
+10,3,1,oil,fortune ,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,kilograms,kilo,156,not available,30,no fractionly sold
+11,3,2,oil,gemini,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,kilograms,kilo,145,not available,30,no fractionly sold
+12,3,3,oil,safola,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,kilograms,kilo,140,not available,30,no fractionly sold
+13,3,4,oil,star,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,kilograms,kilo,148,not available,30,no fractionly sold
+14,4,1,soap,hamam,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,0,0,25,not available,30,no fractionly sold
+15,4,2,soap,tiptop,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,0,0,10,not available,30,no fractionly sold
+16,4,3,soap,vim,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,0,0,10,not available,30,no fractionly sold
+17,4,4,soap,wheel,ok,C:\Users\hp\repo\whatsnew-main\newrepo\files\IMAGE,0,0,15,not available,30,no fractionly sold
