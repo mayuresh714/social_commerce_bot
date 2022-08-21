@@ -9,7 +9,7 @@ The design and workflow of this chatbot is very simple (frankly no NLP models ar
 Link to first round pitch by me --
 https://drive.google.com/file/d/1aHe7qwSOHzwNlxJf_Raa93N1uANxQ9AX/view
 
-some snippets of chatbot
+some snippets of chatbot \n
 ![image](https://user-images.githubusercontent.com/56029669/185778015-c0376265-7bb5-4b55-99e3-48caa061e2cc.png)
 ![image](https://user-images.githubusercontent.com/56029669/185778025-3df5023e-65cb-4e74-9599-94ba90a365b6.png)
  
