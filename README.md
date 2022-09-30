@@ -6,7 +6,7 @@ basically our idea was to develop suitable and customer friendly chatbots that c
 My contribution was to develop the logic,workflow and deployment of the bot.the whole code is in python so it is easy to understand it.
 The design and workflow of this chatbot is very simple (frankly no NLP models are used here).
 
-Link to first round pitch by me --
+Link to first round pitch by me- <br>
 https://drive.google.com/file/d/1aHe7qwSOHzwNlxJf_Raa93N1uANxQ9AX/view
 
 link to product demo showed in pitch presentation of final round of hackathon <br>
