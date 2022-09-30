@@ -15,8 +15,8 @@ https://docs.google.com/presentation/d/1evLvHj8jnuFgS9b60qHp8zkrZiULRzrHYmfnJkl5
 link to product demo showed in pitch presentation of final round of hackathon <br>
 https://drive.google.com/file/d/1IbDDVq8-6cUNuwDKQdTif6nuUberyG4E/view?usp=sharing
 
-some snippets of chatbot <br>
-![image](https://user-images.githubusercontent.com/56029669/185778015-c0376265-7bb5-4b55-99e3-48caa061e2cc.png)
+# some snippets of chatbot <br>
+![image](https://user-images.githubusercontent.com/56029669/185778015-c0376265-7bb5-4b55-99e3-48caa061e2cc.png)<br>
 ![image](https://user-images.githubusercontent.com/56029669/185778025-3df5023e-65cb-4e74-9599-94ba90a365b6.png)
  
 # Participation Certificate 
