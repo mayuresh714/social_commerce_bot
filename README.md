@@ -9,9 +9,13 @@ The design and workflow of this chatbot is very simple (frankly no NLP models ar
 Link to first round pitch by me --
 https://drive.google.com/file/d/1aHe7qwSOHzwNlxJf_Raa93N1uANxQ9AX/view
 
+link to product demo showed in pitch presentation of final round of hackathon
+https://drive.google.com/file/d/1IbDDVq8-6cUNuwDKQdTif6nuUberyG4E/view?usp=sharing
+
 some snippets of chatbot <br>
 ![image](https://user-images.githubusercontent.com/56029669/185778015-c0376265-7bb5-4b55-99e3-48caa061e2cc.png)
 ![image](https://user-images.githubusercontent.com/56029669/185778025-3df5023e-65cb-4e74-9599-94ba90a365b6.png)
  
+# Participation Certificate 
 ![image](https://user-images.githubusercontent.com/56029669/193265863-e18e1947-6f96-4bd6-8a09-82b771323c88.png)
-certificate ....
+
